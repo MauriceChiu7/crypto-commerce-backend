@@ -1,5 +1,5 @@
 # Readme for Back End of CryptoCommerce
-* For front end, please see README_FRONTEND.txt
+* For front end, please see https://github.com/MauriceChiu7/TCSS445_CryptoCommerce
 
 # How to run our project
 * Clone our repository: `git clone https://git.heroku.com/crypto-commerce-backend.git`
